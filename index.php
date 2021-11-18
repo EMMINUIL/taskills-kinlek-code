@@ -173,9 +173,4 @@ require "db.php"; // подключаем файл для соединения �
 			}
 		?> 
 
-<!-- https://nationalteam.worldskills.ru/skills/servernoe-programmirovanie/ -->
-<!-- https://intop24.ru/article_15_lesson_6.php -->
-<!-- https://obninsksite.ru/blog/php-scripts/lesson-redbeanphp -->
-<!-- https://prowebmastering.ru/redbeanphp-orm-dlya-php.html -->
-<!-- https://ixnfo.com/php-perenapravlenie-na-druguyu-stranitsu-redirect.html -->
-<!-- https://webformyself.com/10-poleznyx-sovetov-dlya-veb-razrabotchikov-po-zagruzke-fajlov-v-html/ -->
+
